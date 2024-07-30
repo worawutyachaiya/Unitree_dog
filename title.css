@@ -1,0 +1,13 @@
+img{
+    width: 1000px;
+    height: 100vh;
+    border-radius: 10px;
+}
+body{
+    background: #1abc9c;
+    padding: 1rem;
+}   
+section{
+    display: flex;
+    justify-content: center;
+}
